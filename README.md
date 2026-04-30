@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ritvik Jain</h1>
-<h3 align="center">Aspiring Machine Learning Engineer</h3>
+<h3 align="center">Aspiring Software Engineer | Exploring AI, Backend & Web Systems</h3>
 
-- 🌱 I’m currently learning **machine learning concepts and their real-world applications**
-
-- 💬 Ask me about **how I’m exploring the world of machine learning.**
+* 🌍  I'm based in Noida, Uttar Pradesh
+* ✉️  You can contact me at [ritvikjain.new@gmail.com](mailto:ritvikjain.new@gmail.com)
+* 🧠  I'm currently learning core software development and exploring AI/ML and backend.
+* 👥  I'm looking to collaborate on building and learning together.
+* 💬  Ask me about Interested in building cool things (bugs included, intentionally or not).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
